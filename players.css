@@ -1,0 +1,69 @@
+.each-player{
+    display:inline-block;
+    margin-left: 5rem;
+}
+.img{
+    height: 10rem;
+    width: 10rem;
+
+}
+.players{
+    margin-left: 20rem;
+    margin-right: 20rem;
+}
+
+.top{
+    margin-left: 20rem;
+    margin-right: 20rem;
+    margin-top: 5rem; 
+}
+
+.bottom{
+    margin-left: 20rem;
+    margin-right: 20rem; 
+}
+
+.each-staff{
+    display:inline-block;
+    margin-left: 5rem; 
+}
+
+.coaching-staff{
+    margin-left: 20rem;
+    margin-right: 20rem;
+}
+
+.dropdown {
+    display: inline-block;
+    position: relative;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.4);
+    margin-left: 20rem;
+    margin-right: 20rem; 
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.dropdown-content a {
+    display: block;
+    color: #000000;
+    padding: 5px;
+    text-decoration: none;
+}
+.dropdown-content a:hover {
+    color: #FFFFFF;
+    background-color: #00A4BD;
+}
+
+.button{
+    color:whitesmoke;
+    background-color:rgb(121, 121, 223);
+    margin-left: 20rem;
+    margin-right: 20rem;
+ 
+}
